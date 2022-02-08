@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week12"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week12">
+				<Option output="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/week12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 week12"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week12/fast">
+				<Option output="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/week12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 week12/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/week12_1/week12_01.c">
+			<Option target="week12"/>
+		</Unit>
+		<Unit filename="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/week12_2/week12_02.c">
+			<Option target="week12"/>
+		</Unit>
+		<Unit filename="/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

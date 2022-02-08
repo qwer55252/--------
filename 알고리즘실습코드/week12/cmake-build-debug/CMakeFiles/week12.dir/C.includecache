@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/week12_1/week12_01.c
+stdio.h
+-
+stdlib.h
+-
+
+/Users/jeongsangheon/Desktop/SJU/2-2/알고리즘및실습-나중채/알고리즘실습코드/week12/week12_2/week12_02.c
+stdio.h
+-
+stdlib.h
+-
+
